@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignoriere die Datei mit den Umgebungsvariablen/Geheimnissen
+.env
